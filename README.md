@@ -9,7 +9,7 @@ Created by James Fleming
 James.Fleming394@gmail.com
 
 # Description
-
+        DraftCrafter is an online resource and tool designed for those who are passionate about the NFL draft by giving them the tools to simulate their own mock draft. 
 
 # Table of Contents
 
@@ -20,13 +20,24 @@ James.Fleming394@gmail.com
 
 # Technology
 
-1. MERN Stack
-2. Axios
-3. CSS
+1. `MERN Stack`
+2. `Javascript`
+3. `Axios`
+4. `HTML`
+5. `CSS`
+
+## Running the Project
+
+To run the project in your local environment, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
+3. Run `npm run start` or `yarn start` to get the project started.
+4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
 
 # Views 
 
-## [Deployed Site](https://teachers-pet.herokuapp.com/)
+## [Deployed Site]()
 
 ## ![Homepage]()
 
